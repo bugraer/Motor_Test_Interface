@@ -1,1 +1,1 @@
-# Motor_Test_Interface
+In the motor with encoder, speed and current data come from analog inputs to Stm or Arduino. ADC and USART are used. The selected microprocessor is connected to the c # through the serial communication. Values read from analog input come by communication and processed in c #. Voltage and resistance values are entered in C # screen. Input Power, Output Power, Torque and Angular speed values are calculated by using Current, Voltage, Speed, Resistance values in the background. It is then expressed in graphics on the application.
